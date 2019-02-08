@@ -1,41 +1,41 @@
 
-## Role:
+## Role: Working Professional
 
-## Name:
+## Name: Peter Parker
 
 ## Image: 
 <insert image here>
+[gg](http://pm1.narvii.com/6517/5e4bacc110f5d63bd9254d1d0b47304ddbde1569_00.jpg)
+  
 
 **Image Credit:**
 
 ## Quote:
 
-> Candy donut chupa chups chocolate danish sweet. Candy canes biscuit jelly beans. Jelly beans cotton candy chocolate cake marzipan apple pie. Toffee caramels tart wafer jujubes bonbon candy.
+> BART is broken. It's late, uncomfortable and overcrowded.
 
 ##Background:
 **Age:** 30<br> 
-**Location:** New York<br> 
-**Marital Status:** Engaged<br> 
+**Location:** Berkeley<br> 
+**Marital Status:** Single<br> 
 **Kids:** No<br> 
 **Occupation:** Account Manager<br> 
-**Education:** B.S.
+**Education:** B.S., M.S
 
 ## Characteristics
-* Reliable
-* Caring
-* Committed
+* Career focussed
 * Action Oriented
 * Focused 
 * Eager
 
 ## Goals/Needs
 
-* Wafer sesame snaps caramels chupa chups candy. Sweet roll dessert powder powder halvah. Apple pie chocolate cake cotton candy apple pie biscuit tiramisu. Liquorice chocolate bar cupcake sweet roll
-* Gingerbread dragée pudding chupa chups carrot cake. Donut marshmallow pastry biscuit. Sugar plum ice cream bonbon.
+* Needs a fast and comfortable travel experience
+* Takes the BART to get to SF for work on a daily basis
 
 
 ### TECH KNOWLEDGE
-██████████████████████████████░░░░░░░░░░░░░░░░░░░░░<br> 
+██████████████████████████████████████████████████████░░░░░░░<br> 
 n00b                                                                                                                                               expert
 
 ### KNOWS STAFF SKILLS
@@ -44,8 +44,8 @@ n00b                                                  �
 who are you?                                                                                                                                 besties!
 
 ### TIME AVAILABILITY 
-███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░<br> 
-needed it yesterday                                                                                                                    I can wait
+█████████████████████████████████████████████████████████░░░<br> 
+Need it on a regular basis.                                                                                                   Can't wait
 
 
 ##About
